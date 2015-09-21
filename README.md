@@ -1,1 +1,1 @@
-https://github.com/tuyendc/linkfile/raw/master/ss.exe
+https://github.com/tuyendc/linkfile/raw/master/e.exe
